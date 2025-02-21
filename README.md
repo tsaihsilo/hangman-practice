@@ -1,1 +1,1 @@
-# hangman-practice
+# Hangman-practice
